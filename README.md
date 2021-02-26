@@ -6,7 +6,7 @@ UI animation for Unity
   - Unity 2020.4.10f1(LTS)
   - use of TextMeshPro
 
-## Getting Started
+## Installation
 
 1. Download this repositorie.
 2. Copy **"Assets / UI_Animation_Assets"** folder to your project.
