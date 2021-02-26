@@ -9,3 +9,7 @@ UI animation for Unity
 
 1. Download this repositorie.
 2. Copy "Assets / UI_Animation_Assets" folder to your project.
+
+or
+
+1. Import "UnityPackages / UI_Animation_Assts.unitypackage".
