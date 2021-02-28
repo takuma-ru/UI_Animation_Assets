@@ -14,3 +14,6 @@ UI animation for Unity
 or
 
 1. Import **"UnityPackages / UI_Animation_Assts.unitypackage"**.
+
+## Note
+This software is released under the MIT License, see LICENSE.txt.
